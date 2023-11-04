@@ -1,6 +1,6 @@
 ## merchant-product-app (Merchant Product Management Application)
 
-This is a Java-based application that manages users and their associated products. It uses Spring Framework for dependency injection, Hibernate for persistence, and MySQL as the database.
+This is a Java-based application that manages Merchants and their associated products. It uses Spring Framework for dependency injection, Hibernate for persistence, and MySQL as the database.
 
 ### Table of Contents
 
